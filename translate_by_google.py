@@ -3,9 +3,6 @@ from googletrans import Translator
 import langid
 
 
-
-
-
 def translate(text):
     lang = langid.classify(text)[0]
     if lang == 'ru':

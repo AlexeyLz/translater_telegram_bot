@@ -292,8 +292,8 @@ def info(word):
         lst.append(i)
     return lst
 
-def get_info_word(word_data, word_result):
 
+def get_info_word(word_data, word_result):
     result = define(word_data)
     from pprint import pprint
 
@@ -316,7 +316,7 @@ def get_info_word(word_data, word_result):
     except:
         pass
     try:
-        desc_word+= '\n---\nDefinitions: '+'\n'.join(info['definitions'])
+        desc_word += '\n---\nDefinitions: ' + '\n'.join(info['definitions'])
     except:
         pass
     try:

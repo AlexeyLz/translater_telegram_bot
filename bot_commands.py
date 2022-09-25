@@ -61,4 +61,4 @@ async def callbacks_num(call: types.CallbackQuery):
     await call.message.delete()
     print(word_result, word_data)
 
-    await call.message.answer('Информация о ' + word_result + ':\n'+info_word.get_info_word(word_data, word_result))
+    await call.message.answer('Информация о ' + word_result + ':\n' + info_word.get_info_word(word_data, word_result))
