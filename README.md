@@ -1,7 +1,7 @@
-Бот создан в развлекательно-познавательных целях.                                                            
+The bot was created for entertainment and educational purposes.                                                          
 ![image](https://user-images.githubusercontent.com/52629691/193815717-e9726522-d24c-4b5b-934d-a61aaaf509a4.png)
 
-Возможен перевод с автоопределением языка RU/EN
+Translation with auto-detection of the RU/EN language is possible
 ![image](https://user-images.githubusercontent.com/52629691/193816151-efd90c14-ce41-4706-a4ef-7743171591f1.png)
 ![image](https://user-images.githubusercontent.com/52629691/193816601-4587787b-847b-47f5-8699-ee956ecc8ddc.png)
 
